@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ToastCommonLib_Example' do
+  pod 'ToastCommonLib', :path => '../'
+
+  target 'ToastCommonLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
