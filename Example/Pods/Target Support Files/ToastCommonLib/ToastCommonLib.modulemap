@@ -1,0 +1,6 @@
+framework module ToastCommonLib {
+  umbrella header "ToastCommonLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

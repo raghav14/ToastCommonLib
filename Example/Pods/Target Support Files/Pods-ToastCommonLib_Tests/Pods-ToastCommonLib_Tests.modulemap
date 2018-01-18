@@ -1,0 +1,6 @@
+framework module Pods_ToastCommonLib_Tests {
+  umbrella header "Pods-ToastCommonLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

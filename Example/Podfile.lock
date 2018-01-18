@@ -1,0 +1,16 @@
+PODS:
+  - ToastCommonLib (0.1.0)
+
+DEPENDENCIES:
+  - ToastCommonLib (from `../`)
+
+EXTERNAL SOURCES:
+  ToastCommonLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ToastCommonLib: 6a223ec6a1e83baf8276f46c576f360b938512fb
+
+PODFILE CHECKSUM: 32310ced89ecc8a4ed385c13be887777192c7d5a
+
+COCOAPODS: 1.3.1
